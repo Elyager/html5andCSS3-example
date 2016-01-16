@@ -1,0 +1,49 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+	border: 2px solid gray;
+}
+
+h1 {
+	border: 2px solid black;
+}
+
+h2 {
+	border: 2px solid pink;
+}
+
+p {
+	border: 2px solid orange;
+}
+
+a {
+	border: 2px solid green;
+}
+
+.highlight {
+	background-color: yellow;
+}
+
+div {
+	background-color: gray;
+	color: white;
+	border: 1px solid black;
+}
+
+.red-yellow {
+	background-color: red;
+	color: yellow;
+}
+
+.pink {
+	background-color: pink;
+	color: black;
+}
+
+#my-id {
+	background-color: orange;
+}

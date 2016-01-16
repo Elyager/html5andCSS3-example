@@ -1,0 +1,30 @@
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.item {
+	padding: 5px;
+	border: 2px solid black;
+	text-align: right;
+	color: #FFF;
+	background-color: peru;
+	margin: 0 20px;
+}
+
+.alt-color {
+	padding: 5px;
+	border: 2px solid black;
+	text-align: right;
+	color: #FFF;
+	background-color: orange;
+	margin: 0 20px;
+}
+
+.container {
+	text-align: center;
+	border: 2px solid peru;
+	border-radius: 10px;
+	background-color: olive;
+	color:#FFF;
+}
